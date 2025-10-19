@@ -1,12 +1,12 @@
 # Maximizing-Online-Retail-Performance: Analyzing Traffic Patterns by Time and Source
 ## Table of Contents
-- [Description](description)
-- [Business Introduction](business-introduction)  
-3. [Business Problem](business-problem)  
-4. [Aim](aim)  
-5. [Processes](processes)  
-6. [Key Insights](key-insights)  
-7. [Recommendations](recommendations)
+  - [Description](#description)
+  - [Business Introduction](#business-introduction)  
+  - [Business Problem](#business-problem)  
+  - [Aim](#aim)  
+  - [Processes](#processes)  
+  - [Key Insights](#key-insights)  
+  - [Recommendations](#recommendations)
 ### Description
 This project focuses on analyzing website traffic data for an online retail company that sells consumer electronics, home goods, and lifestyle products. The analysis was done entirely in Tableau, with the goal of uncovering user behavior patterns, identifying key traffic sources, and helping the business make data-driven marketing decisions.
 
