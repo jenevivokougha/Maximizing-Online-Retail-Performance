@@ -1,4 +1,8 @@
 # Maximizing-Online-Retail-Performance: Analyzing Traffic Patterns by Time and Source
+
+🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jeneviv.okougha/viz/Bright_cartproject/Trafficanalysis)**  
+Explore the live dashboard with filters for month, year, and traffic source.
+
 ## Table of Contents
   - [Description](#description)
   - [Business Introduction](#business-introduction)  
