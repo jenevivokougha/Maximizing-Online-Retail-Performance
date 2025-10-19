@@ -1,8 +1,8 @@
 # Maximizing-Online-Retail-Performance: Analyzing Traffic Patterns by Time and Source
 ## Table of Contents
 
-1. [Description](description)
-2. [Business Introduction](business-introduction)  
+[Description](description)
+[Business Introduction](business-introduction)  
 3. [Business Problem](business-problem)  
 4. [Aim](aim)  
 5. [Processes](processes)  
